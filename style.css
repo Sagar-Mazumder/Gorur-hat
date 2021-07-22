@@ -1,0 +1,16 @@
+.quarban-bg-color
+{
+    background-color: #e9e9e9;
+}
+.quarban-btn-btn-color
+{
+    background-image: linear-gradient(to bottom, #1ec6a8 0%, #1eb89b 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.pg-bg-color
+{
+ color: #1ec6a8;   
+}
